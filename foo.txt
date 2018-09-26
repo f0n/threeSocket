@@ -1,0 +1,3 @@
+// This becomes the content of your foo.txt file
+let color1 = 0x00ff00;
+let color2 = 0xFF04F0;
